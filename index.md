@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Private Policy
 
-You can use the [editor on GitHub](https://github.com/brianwaldman/trio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I (Brian Waldman) made the mobile application Trio with absolutely no intention of collecting or profiting from personal information about its users (you). Any and all stored personal information (including usernames and scores) is pertanant and either kept locally on your device and removed upon Trio's deletion or on Apple's services (including iCloud and Game Center). Permissions for Trio to access and share information with these services that I do not own or control can be limited or denied through Apple's own Settings application.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For a legalese version of my private policy, click [here](https://brianwaldman.github.io/trio/privacy.html).
 
-### Markdown
+For Apple's private policy, click [here](https://www.apple.com/privacy).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brianwaldman/trio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For questions or concerns, click [here](mailto:briantrioapp@gmail.com).
